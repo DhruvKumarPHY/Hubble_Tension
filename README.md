@@ -6,3 +6,5 @@ I am currently working with Dr. Biswajit Paul (NIT Agartala) on this project.
 
 
 <img width="868" alt="Screenshot 2022-05-08 at 11 18 40 AM" src="https://user-images.githubusercontent.com/99118678/167321121-715e8e0b-802d-45d6-af48-0bc81d79e184.png">
+
+<img width="1439" alt="Screenshot 2022-06-06 at 3 09 54 PM" src="https://user-images.githubusercontent.com/99118678/173195285-967f98e2-72a2-4ce4-ace2-e3079be8629c.png">
